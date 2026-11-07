@@ -1,0 +1,116 @@
+---
+layout: page
+title: Readings
+permalink: /readings/
+---
+
+Thought it would be great to keep track of articles/stories I am currently reading. I hope you do find some interesting stuff here. The order is that the latest read is at the top.
+
+- [ALL OF US VERSUS TECH DYSTOPIA](https://bigbash.cc/2026/09/08/all-of-us-versus-tech-dystopia/){:target="_blank"}
+- [“Useful” is not sufficient](https://tante.cc/2026/07/15/useful-is-not-sufficient/){:target="_blank"}
+- Accepting Probabilistic Software Is A Political Choice
+- [On Walking Away](https://pythonbynight.com/blog/accepting-probabilistic-software-is-a-political-choice){:target="_blank"}
+- [The Median Voter Theorem is a Clarity Trap](https://www.programmablemutter.com/p/the-median-voter-theorem-is-a-clarity)
+- [Ruto’s Kenya](https://africasacountry.com/2024/11/rutos-kenya){:target="_blank"}
+- [Frankenstein’s Regrets – What is AI?](https://www.thenation.com/article/society/artificial-intelligence-ai-paradox/){:target="_blank"}
+- [On courage, agency, and moral direction](https://www.nytimes.com/2026/04/01/opinion/high-agency-silicon-valley.html){:target="_blank"}
+- [We must learn to sit in the dark together](https://www.africasacountry.com/2025/10/we-must-learn-to-sit-in-the-dark-together){:target="_blank"}
+- [It’s Not Complicated](https://www.thekeymagazine.com/p/western-journalism-palestine-objectivity-legacy-media-genocide-bias-gaza){:target="_blank"}
+- [On Malayalam and Melancholia](https://yasminnair.com/on-malayalam-and-melancholia/){:target="_blank"}
+- [Commandments in the Atomic Age by Günther Anders](https://aphelis.net/commandments-atomic-age-gunther-anders/){:target="_blank"}
+- [The Political Economy of AI: A Syllabus](https://www.programmablemutter.com/p/the-political-economy-of-ai-a-syllabus){:target="_blank"}
+- [Hope the Length of an Instagram Reel: An African Millennial’s Musing](https://www.theelephant.info/analysis/2026/02/18/hope-the-length-of-an-instagram-reel-an-african-millennials-musing/){:target="_blank"}
+- [Testing a new encrypted messaging app’s extraordinary claims](https://crnkovic.dev/testing-converso/)
+- [House Arab](https://bidoun.org/articles/house-arab){:target="_blank"}
+- [David Foster Wallace’s ‘100-word Statement’ on the ‘millennium’](https://web.archive.org/web/20080821105752/http://www.theknowe.net/dfwfiles/pdfs/Wallace-100-Word_Statement.pdf){:target="_blank"}
+- [Telephone Conversation — Wole Soyinka](https://allpoetry.com/poem/10379451-Telephone-Conversation-by-Wole-Soyinka)
+- [Political Economy in Kenya](https://kaboro.substack.com/p/political-economy-in-kenya){:target="_blank"}
+- [Why I Wrote This Book — *Strength and Sorrow*](https://oyunga.substack.com/p/why-i-wrote-this-book){:target="_blank"} — On writing as a process of healing and making space for others.
+- [How Much Does a Nigerian Intellectual Cost?](https://www.theelephant.info/analysis/2025/11/27/how-much-does-a-nigerian-intellectual-cost/){:target="_blank"} — Reflections on predatory governance and its effects on civic culture.
+- [Remembering Derek Parfit](https://www.lrb.co.uk/blog/2017/january/remembering-derek-parfit){:target="_blank"} — On changing one's view of life and becoming more concerned with others.
+- [Thought and Its Vicissitudes](https://adamkotsko.substack.com/p/thought-and-its-vicissitudes){:target="_blank"} — On independent thought and political power.
+- [Homer and the Power of Story-telling](https://antigonejournal.com/2022/03/homer-story-telling/){:target="_blank"} — On agency, passivity, and suffering in the *Iliad*.
+- [Historicizing, Interrogating, and Critiquing Raila Odinga’s Ideological and Political Legacy](https://www.pambazuka.org/Raila-Odinga){:target="_blank"} — On solidarity, justice, dignity, and political movements.
+- [Fyodor Dostoevsky: philosopher of freedom](https://newcriterion.com/article/fyodor-dostoevsky-philosopher-of-freedom/){:target="_blank"}
+- [Crito](https://sites.pitt.edu/~mthompso/readings/crito.pdf){:target="_blank"}
+- [Reading Our Ruins: Post-colonial Stories That Float from Afar](https://www.theelephant.info/analysis/2018/03/22/reading-our-ruins-post-colonial-stories-that-float-from-afar/){:target="_blank"} — On witnessing and interpreting experience.
+- [Dear Dr. Joyce Nyairo](https://www.theelephant.info/reflections/2025/08/18/dear-dr-joyce-nyairo/){:target="_blank"}
+- [“Localhost tracking” explained. It could cost Meta 32 billion.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could){:target="_blank"} — Author's note: avoids Meta products because of privacy concerns.
+- [Making the Image: Che Guevara by René Burri](https://www.magnumphotos.com/theory-and-practice/behind-the-image-che-guevara-by-rene-burri/){:target="_blank"}
+- [The Freedom to Read](https://www.plough.com/articles/the-freedom-to-read){:target="_blank"} — On reading, imagination, and the material conditions for intellectual freedom.
+- [Locke and Hume on Consent](https://www.carneades.pomona.edu/2018-Political/14.LockeHumeConsent.html){:target="_blank"}
+- [Extrajudicial Mandates: Will The Law Ever Protect The Poor?](https://debunk.media/extrajudicial-mandates-will-the-law-ever-protect-the-poor/){:target="_blank"}
+- [How to Spot Bullshit: A Manual by Princeton Philosopher Harry Frankfurt (RIP)](https://www.openculture.com/2023/07/how-to-spot-bullshit-a-manual-by-princeton-philosopher-harry-frankfurt-rip.html){:target="_blank"}
+- [Millions on the African continent can’t fully benefit from the AI revolution](https://www.princeton.edu/news/2025/02/07/millions-african-continent-cant-fully-benefit-ai-revolution-princeton-course-aims){:target="_blank"}
+- [“Hug Machine”](https://refaatwritesback.beehiiv.com/p/hug-machine){:target="_blank"}
+- [Ancient town and its manuscripts face ravages of the Sahara](https://phys.org/news/2025-05-ancient-town-manuscripts-ravages-sahara.html){:target="_blank"}
+- [How Coffee Fueled Revolutions—and Revolutionary Ideas](https://www.history.com/articles/coffee-houses-revolutions){:target="_blank"}
+- [Datasets as Imagination](https://joinreboot.org/p/artist-datasets){:target="_blank"}
+- [The Workers Behind AI Rarely See Its Rewards. This Indian Startup Wants to Fix That.](https://time.com/6297403/the-workers-behind-ai-rarely-see-its-rewards-this-indian-startup-wants-to-fix-that/){:target="_blank"} — Karya's approach to ethical data work and worker ownership.
+- [The Atlas of Beauty](https://www.theatlasofbeauty.com){:target="_blank"} — Mihaela Noroc's global portraits and stories of women.
+- [Nouf Aljowaysir — visual portraits about AI, culture, and identity](https://www.noufaljowaysir.com/){:target="_blank"}
+- [Galileo’s Testing Communications](https://berthub.eu/articles/posts/galileos-testing-communications/){:target="_blank"}
+- [The Churchill Mandela Effect – A Resurrector of Careers, Scar Mkadinali](https://www.kejayacapo.com/gazeti/the-mandela-effect-why-artists-are-latching-on-scar-mkadinali){:target="_blank"}
+- [AI teaching tools in Kenya and teacher shortages](https://restofworld.org/2025/ai-teaching-tools-kenya-teacher-shortage/){:target="_blank"} — Note about prioritizing teachers and school infrastructure over flashy technology.
+- [The Boston hippies who developed technologies that Silicon Valley wouldn’t dare to make](https://www.bostonglobe.com/2024/06/15/opinion/warren-brodey-environmental-ecology-lab/){:target="_blank"}
+- [Matching Hypothesis](https://en.wikipedia.org/wiki/Matching_hypothesis){:target="_blank"}
+- [Why most countries are struggling to shut down 2G](https://restofworld.org/2025/shutting-down-2g-networks-phones-obsolete/){:target="_blank"}
+- [Pluralistic: Apple’s encryption capitulation](https://pluralistic.net/2025/02/25/sneak-and-peek/){:target="_blank"}
+- [Living Like Weasles](https://public.wsu.edu/~hughesc/dillard_weasel.htm){:target="_blank"}
+- [Statement of Teaching Philosophy](https://waxwingmag.org/items/issue23/9_Leonard-Statement-of-Teaching-Philosophy.php){:target="_blank"}
+- [a poetics of refusal](https://dana.computer/twenty24/){:target="_blank"}
+- [Android Supply Chain Validation Cheat Sheet](https://eclypsium.com/blog/android-supply-chain-validation-cheat-sheet/){:target="_blank"}
+- [When Disappearing Messages Don’t Disappear: the ‘dark’ side of (macOS) notifications](https://objective-see.org/blog/blog_0x2E.html){:target="_blank"}
+- [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments){:target="_blank"}
+- [Hikvision and Dahua Facilitating Genocidal Crimes in East Turkistan](https://uhrp.org/statement/hikvision-and-dahua-facilitating-genocidal-crimes-in-east-turkistan/){:target="_blank"}
+- [How to Beat the Odds](https://joinreboot.org/p/how-to-beat-the-odds){:target="_blank"}
+- [A brief history of Directory Services](https://eclecticlight.co/2024/08/03/a-brief-history-of-directory-services/)
+- [The Dying Web](https://endler.dev/2024/the-dying-web/){:target="_blank"}
+- [The shift we need to stop mass surveillance](https://www.ted.com/talks/albert_fox_cahn_the_shift_we_need_to_stop_mass_surveillance){:target="_blank"}
+- [A Global Green New Deal: Into the Portal, Leave No one Behind](https://www.youtube.com/watch?t=470s&v=w0NY1_73mHY){:target="_blank"}
+- [Native mobile apps are optional for B2B startups in 2024](https://world.hey.com/dhh/native-mobile-apps-are-optional-for-b2b-startups-in-2024-4c870d3e){:target="_blank"}
+- [How AI can keep disappearing languages alive](https://www.ted.com/talks/pelonomi_moiloa_how_ai_can_keep_disappearing_languages_alive){:target="_blank"}
+- [Chinese Social Media Platforms Fail to Control Racism Against Black People: Report](https://www.voanews.com/a/chinese-social-media-platforms-fail-to-control-racism-against-black-people-report/7227458.html){:target="_blank"}
+- [The Hybrid Architecture of Kinopio for iOS](https://pketh.org/kinopio-ios.html){:target="_blank"}
+- [E-bike battery fires keep climbing in NYC](https://gothamist.com/news/e-bike-battery-fires-keep-climbing-in-nyc){:target="_blank"} — Source note: 267 fires in 2023, about 20% more than in 2022.
+- [Why Are Tech Reporters Sleeping On The Biggest App Store Story?](https://infrequently.org/2024/01/the-web-is-the-app-store/){:target="_blank"} — Author's note: concerns about app-store gatekeeping.
+- [Stop Trying to Make Social Networks Succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html){:target="_blank"}
+- [Weizenbaum’s nightmares: how the inventor of the first chatbot turned against AI](https://www.theguardian.com/technology/2023/jul/25/joseph-weizenbaum-inventor-eliza-chatbot-turned-against-artificial-intelligence-ai){:target="_blank"}
+- [The Boy’s Own Internet: Aaron Swartz and the myth of the boy genius](https://joinreboot.org/p/the-boys-own-internet){:target="_blank"}
+- [🌻 audience of one](https://jasmine.substack.com/p/audience-of-one){:target="_blank"}
+- [Scammers Have Found An Easy Way To Clone Fingerprints](https://www.boomlive.in/decode/cloned-fingerprints-scam-the-story-of-aadhaar-enabled-payment-system-22944){:target="_blank"}
+- [Paying to use a site you can’t use](https://www.garbageday.email/p/paying-to-use-a-site-you-cant-use){:target="_blank"} — Reflections on Twitter, influence, and power.
+- [What does it mean when fewer people die?](https://www.scientificdiscovery.dev/p/15-what-does-it-mean-when-fewer-people-die){:target="_blank"}
+- [A Life Offline](https://www.aaronsw.com/weblog/offline){:target="_blank"}
+- [ARIA: Betting on science](https://worksinprogress.co/issue/aria-betting-on-science/){:target="_blank"}
+- [Every generator is a policy failure](https://worksinprogress.co/issue/every-generator-is-a-policy-failure/){:target="_blank"}
+- [Saloni Dattani: Peer Review, Division of Labor in Science, and the Genetics of Psychiatric Disorders](https://www.youtube.com/watch?index=6&list=WL&t=14s&v=fh6au8JR6qo){:target="_blank"}
+- [Ugali Consumption along Class Lines: Policy approaches to reduce maize dependency](https://christinegatwiri.substack.com/p/ugali-consumption-along-class-lines){:target="_blank"}
+- [Being basic as a virtue](https://nadia.xyz/basic){:target="_blank"}
+- [A Philosophy of Subtraction – How the Ethereum Foundation drives innovation through delegation](https://joinreboot.org/p/a-philosophy-of-subtraction){:target="_blank"}
+- [Some Things I think](https://collabfund.com/blog/thoughts/){:target="_blank"}
+- [On Self-Respect: Joan Didion’s 1961 Essay from the Pages of Vogue](https://www.vogue.com/article/joan-didion-self-respect-essay-1961){:target="_blank"}
+- [Sheng: Why it matters](https://www.hinya.net/opinions/2019/2/28/sheng-why-it-matters){:target="_blank"}
+- [The Food Safety Tax: Why getting good food from the vendor next door matters](https://christinegatwiri.substack.com/p/the-food-safety-tax-why-getting-good){:target="_blank"}
+- [Entwined African and Asian genetic roots of medieval peoples of the Swahili coast](https://www.nature.com/articles/s41586-023-05754-w){:target="_blank"}
+- [Irresponsible data? The risks of registering the Rohingya](https://www.thenewhumanitarian.org/opinion/2017/10/23/irresponsible-data-risks-registering-rohingya){:target="_blank"}
+- [Advocacy and Empathy Avoidance](https://snowden.substack.com/p/advocacy-and-empathy-avoidance){:target="_blank"} — On how to help people care about social issues.
+- [Language is not enough: What LLMs can – and can’t – do for lab automation](https://erikaaldendeb.substack.com/p/language-is-not-enough){:target="_blank"}
+- [Death of the podcast](https://dirt.fyi/article/2023/04/death-of-the-podcast){:target="_blank"}
+- [a requiem for walking](https://arshia.substack.com/p/a-requiem-for-walking){:target="_blank"} — On walking, embodiment, and scale.
+- [Privacy a casualty in race to develop generative AIs](https://frontline.thehindu.com/society/unreal-and-unsettling-privacy-a-casualty-in-race-to-develop-generative-ais-like-chatgpt/article66579941.ece){:target="_blank"} — Concerns about data concentration and dehumanization.
+- [Tech’s Risks on Non-English Platforms](https://democracyjournal.org/magazine/68/techs-risks-on-non-english-platforms/){:target="_blank"}
+- [What kind of Digital ID do we actually want?](https://digitalfutures.space/deepdive/digital-id/){:target="_blank"}
+- [making decisions](https://katiewav.substack.com/p/making-decisions){:target="_blank"}
+- [Budding Free-ness in a Catastrophic World](https://cameronnajafi.substack.com/p/budding-free-ness-in-a-catastrophic){:target="_blank"}
+- [The Nobel Prize in Literature 1993 — Toni Morrison](https://www.nobelprize.org/prizes/literature/1993/summary/){:target="_blank"}
+- [boring lives finding surprise in the boring, sculpting meaning from stone](https://spencerchang.substack.com/p/boring-lives){:target="_blank"}
+- [Why East Africa Is Facing Its Worst Famine in Decades](https://www.bloomberg.com/news/articles/2022-08-17/why-east-africa-s-facing-its-worst-famine-in-decades-quicktake){:target="_blank"}
+- [Apps Won’t Solve the Mental Health Crisis](https://reboothq.substack.com/p/mental-health-apps){:target="_blank"}
+- [The Myth of the Socially Conscious Corporation](https://newrepublic.com/article/170200/myth-socially-conscious-corporation-william-magnuson-review){:target="_blank"}
+- [A Romp through Database History](https://open.spotify.com/episode/5mwTqZChgRkiOfQUPmodU1){:target="_blank"}
+- [Do You Know How to Behave? Are You Sure?](https://www.thecut.com/article/tipping-rules-etiquette-rules.html){:target="_blank"}
+- [Why haven’t markets disciplined public finance management practices in African states?](https://kenopalo.substack.com/p/why-havent-markets-disciplined-public){:target="_blank"}
+- [Is it important to have friends?](https://www.theredhandfiles.com/is-it-important-to-have-friends/)
+- [friendship](https://katiewav.substack.com/p/friendship){:target="_blank"}
+
