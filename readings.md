@@ -6,6 +6,7 @@ permalink: /readings/
 
 Thought it would be great to keep track of articles/stories I am currently reading. I hope you do find some interesting stuff here. The order is that the latest read is at the top.
 
+- How AI replaced me [https://www.oaklandreviewofbooks.org/how-ai-replaced-me/](https://www.oaklandreviewofbooks.org/how-ai-replaced-me/){:target="_blank"}
 - [ALL OF US VERSUS TECH DYSTOPIA](https://bigbash.cc/2026/09/08/all-of-us-versus-tech-dystopia/){:target="_blank"}
 - [“Useful” is not sufficient](https://tante.cc/2026/07/15/useful-is-not-sufficient/){:target="_blank"}
 - Accepting Probabilistic Software Is A Political Choice
